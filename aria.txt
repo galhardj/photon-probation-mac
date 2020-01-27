@@ -1,5 +1,9 @@
 1. edit 1
 2. edit 2
 3. edit 3
+<<<<<<< HEAD
 4. edit 4
 5. edit 5
+=======
+4. edit 4
+>>>>>>> 03master
