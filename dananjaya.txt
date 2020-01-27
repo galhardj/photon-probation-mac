@@ -2,5 +2,9 @@
 2. edit 2 (there's an enter in 1st line1)
 3. edit 3 (there's already an enter here)
 4. edit 4
+<<<<<<< HEAD
 5. edit 5
 6. edit 6
+=======
+5. edit 5
+>>>>>>> master
